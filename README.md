@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Anand</h1>
-<h3 align="center">A passionate mobile app development using Kotlin language and Flutter framework.</h3>
+<h3 align="center">I'm a Computer Science Student and passionate to app development in kotlin language and flutter framework and coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswi-anand&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswi-anand" /> </p>
 
