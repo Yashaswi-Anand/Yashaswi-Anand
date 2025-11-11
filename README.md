@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Anand</h1>
-<h3 align="center">I'm a Computer Science Student and passionate to app development and web development. Good Knowledge about Java, Javascript, Flutter and MERN.</h3>
+<h3 align="center">I'm a Computer Science Student and passionate to application development. Good Knowledge about Javascript, NodeJS, ReactJs, SQL, PostgreSQL, Docker, AWS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswi-anand&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswi-anand" /> </p>
 
